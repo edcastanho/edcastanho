@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Eduardo;I'm+18+years+old;I'm+from+Brazil,+Pelotas;I+study+systems+analysis+and+development+at+senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xmurilo&theme=algolia&show_icons=true" alt="github stats saiu fora do ar" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmurilo&layout=compact&langs_count=16&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edcastanho&theme=algolia&show_icons=true" alt="github stats saiu fora do ar" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastanho&layout=compact&langs_count=16&theme=algolia"/>
 </div>
 
 <hr>
